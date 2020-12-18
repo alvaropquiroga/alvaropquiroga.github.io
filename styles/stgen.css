@@ -1,0 +1,374 @@
+body {
+	background-color: #000000;
+}
+
+td, tr{
+	text-align: center;
+}
+
+h1{
+	color: white;
+	text-align: center;
+}
+
+
+hr{
+	text-align: center;
+	width: 100%;
+}
+
+.hrpag{
+	height:0.5px;
+	border-width:0;
+	background-color:gray;
+}
+.link{
+
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-style: oblique;
+}
+
+.tablados{
+	text-align: center;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	border: 0;
+}
+
+#tablalogo{
+	margin-bottom: 5px;
+	text-align: center;
+}
+
+.tablauno{
+	text-align: center;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	/*margin-top: 10%;*/
+	border: 0;
+}
+
+#enlaces{
+	width: 100%;
+	border: 0;
+}
+
+p{
+	color: white;
+	text-align: left;
+}
+
+#ancaresleoneses{
+	float: left;
+  margin-right: 10px;
+  	width: 200px;
+	height: 200px;
+}
+
+.imgiz{
+	float: left;
+  margin-right: 10px;
+  	width: 200px;
+	height: 200px;
+}
+
+#logoancares{
+	margin-left: 550px;
+}
+
+#ancareslucenses{
+	float: right;
+  margin-left: 10px;
+  	width: 200px;
+	height: 200px;
+}
+
+.imgder{
+	float: right;
+  margin-left: 10px;
+  	width: 200px;
+	height: 200px;
+}
+
+#tresbispos{
+	width: 500px;
+	height: 450px;
+	margin-left: 450px;
+}
+
+.imgcen{
+	width: 400px;
+	height: 200px;
+	margin-left: 50px;
+}
+
+#video{
+	width: 550px; 
+	height: 300px;
+	margin-left: 150px;
+}
+
+#ifarme {
+
+	width: 450px;
+	height: 500px;
+	
+}
+
+.tablapoblacion{
+	text-align: center;
+	width: 100%;
+		border-width:1px;
+	border-color:gray;
+}
+
+.tablapoblacionuno{
+	vertical-align: top;
+	width: 194px;
+		border-width:1px;
+		border-style:solid;
+	border-color:gray;
+	color: white;
+}
+
+.tablapoblacionnombre{
+	vertical-align: top;
+	width: 168px;
+	border-width:1px;
+	border-style:solid;
+	color: white;
+	border-color:gray;
+}
+
+.tablapoblacionanho1{
+	
+	vertical-align: top;
+	width: 86px;
+	border-width:1px;
+	border-style:solid;
+	color: white;
+	border-color:gray;
+}
+
+.tablapoblacionanho2{
+	
+	vertical-align: top;
+	width: 62px;
+	border-width:1px;
+	border-style:solid;
+	color: white;
+	border-color:gray;
+}
+
+.tablapoblacionanho3{
+	
+	vertical-align: top;
+	width: 194px;
+	border-width:1px;
+	border-style:solid;
+	color: white;
+	border-color:gray;
+}	
+
+.tablacontacto{
+	text-align: center;
+	width: 100%;
+	height: 528px;
+	border: 1px;
+
+}
+.tablacontactomapa{
+	width: 400px;
+	height: 300px;
+}
+.tablarutas{
+
+	text-align: center;
+	width: 100%;
+	border: 1px;
+
+}
+
+.tablatresuno{
+	border-color:gray;
+	border-style:solid;
+	vertical-align: top;
+		border-width:1px;
+	color: white;
+	font-weight: bold;
+}
+
+.tablatresdos{
+	border-color:gray;
+	border-style:solid;
+	text-align: left;
+		border-width:1px;
+	vertical-align: top;
+	color: white;
+}
+	
+
+/*a:link, a:visited {
+  background-color: black;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 20px;
+}
+
+a:hover, a:active {
+  background-color: white;
+  color: black;
+}*/
+
+.menuCSS3 ul {
+	display: flex;
+	padding: 0;
+
+	margin: 0;
+	list-style: none;
+}
+#asf{
+	display: block;
+	padding: 14px 25px;
+	margin-left: 45px;
+	background-color: black;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	font-style: oblique;
+	border-radius: 20px;
+	color: white;
+}
+.pag{
+	color: white;
+	text-decoration: none;
+}
+
+.pag:hover{
+	background-color: white;
+	color: black;
+}
+
+/*#menuCSS3 asf{
+	display: block;
+	padding: 14px 25px;
+	margin-right: 20px;
+	background-color: black;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	font-style: oblique;
+	border-radius: 20px;
+	color: white;
+}*/
+
+/*.menuCSS3 asfd{
+	display: block;
+	padding: 14px 25px;
+	margin-left: 140px;
+	margin-right: 100px;
+	background-color: black;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	font-style: oblique;
+	border-radius: 20px;
+	color: black;
+}*/
+	
+	
+.menuCSS3 a{
+	display: block;
+	padding: 14px 25px;
+	margin-right: 140px;
+	background-color: black;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	font-style: oblique;
+	border-radius: 20px;
+	color: white;
+}
+.menuCSS3 a:hover {
+	background-color: white;
+	color: black;
+}
+	
+#asf:hover{
+	background-color: white;
+	color: black;
+}		
+.menuCSS3 ul li ul {
+	display: none;
+}
+.menuCSS3 ul li a:hover + ul, .menuCSS3 ul li ul:hover {
+		display: block;
+}
+	
+figure {
+  border: 1px #cccccc solid;
+  padding: 1px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+.tablatres  {
+margin-left: 350px;
+ text-align: center;
+  border-collapse:collapse;
+  border-spacing:0;
+}
+.tablatres td{
+	border-color:white;
+	border-style:solid;
+	border-width:2px;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+    overflow:hidden;
+    padding:10px 5px;
+   word-break:normal;
+}
+.tablatres th{
+	border-color:white;
+	border-style:solid;
+	border-width:2px;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+   font-weight:normal;
+   overflow:hidden;
+   padding:10px 5px;
+   word-break:normal;
+}
+.tablatres .ccant{
+	background-color:#fffc9e;
+	text-align:left;
+	vertical-align:top
+}
+.tablatres .galicia{
+	background-color:#9aff99;
+	text-align:left;
+	vertical-align:top
+}
+.tablatres .asturias{
+	background-color:#cbcefb;
+	text-align:left;
+	vertical-align:top
+}
+.tablatres .cabeza{
+	color:#ffffff;
+	text-align:left;
+	vertical-align:top
+}
